@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  	<meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>VR - deep link</title>
+    <script src="third-party/gl-matrix/dist/gl-matrix-min.js"></script>
+    <script src="third-party/three.js-master/build/three.js"></script>
+    <script src="third-party/three.js-master/src/renderers/CanvasRenderer.js"></script>
+    <script src="third-party/three.js-master/src/renderers/Projector.js"></script>
+    <script src="third-party/three.js-master/src/VRControls.js"></script>
+    <script src="third-party/three.js-master/src/effects/VREffect.js"></script>
+    <script src="third-party/three.js-master/src/WaterShader.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"
+      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+      crossorigin="anonymous"></script>
+    <style>
+    #canvas {
+      background-color: #000000;
+    }
+    </style>
+  </head>
+  <body>
+    <canvas id="canvas"></canvas>
+    <div id="warningWrapper">
+      <p id="warning"></p>
+    </div>
+    <div id="button">
+      <img src="src/img/cardboard64.png"></img>
+      <p>Enter VR</p>
+    </div>
+  </body>
+  <link href="src/css/style.css" rel="stylesheet"></link>
+  <script src="src/js/webvr.js"></script>
+  <script src="src/js/galaxy.js"></script>
+  <script src="src/js/snowfall.js"></script>
+  <script src="src/js/island.js"></script>
+  <script src="src/js/deep-link-navigation.js"></script>
+  <script src="src/js/deep-link.js"></script>
+</html>
