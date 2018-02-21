@@ -151,8 +151,7 @@ Webvr.prototype.onResize = function() {
   } else {
     this.renderer.width = this.renderer.offsetWidth * window.devicePixelRatio;
     this.renderer.height = this.renderer.offsetHeight * window.devicePixelRatio;
-    this.canvas.width = window.innerWidth;
-    this.canvas.height = window.innerHeight;
+    this.canvas.removeAttribute("style");
   }
 }
 
