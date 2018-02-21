@@ -14,11 +14,11 @@ For those using A-Frame, the A-Frame team have added [Link Traversal](https://af
 
 #### Links (These demos are not implemented in A-frame.) - You can press the "back" or "next" to get to a different scene.
 
- * [Galaxy Links](https://winstonchen.github.io/wvr/links-galaxy.html)
+ * [Galaxy Links](https://samsunginter.net/WebVR-navigation-demos/links-galaxy.html)
 
- * [Snow Links](https://winstonchen.github.io/wvr/links-snowfall.html)
+ * [Snow Links](https://samsunginter.net/WebVR-navigation-demos/links-snowfall.html)
 
- * [Island Links](https://winstonchen.github.io/wvr/links-island.html)
+ * [Island Links](https://samsunginter.net/WebVR-navigation-demos/links-island.html)
 
 
 ### Deep Link
@@ -27,6 +27,6 @@ For those using A-Frame, the A-Frame team have added [Link Traversal](https://af
 
 #### Deep Link demo - You can press the "back" or "next" to get to different scene.
 
- * [Deep Link](https://winstonchen.github.io/wvr/deep-link.html)
+ * [Deep Link](https://samsunginter.net/WebVR-navigation-demos/deep-link.html)
 
 Thanks @[Tim Chang](https://github.com/timchang514), for help during his time (Summer'17) as an intern on my team.
