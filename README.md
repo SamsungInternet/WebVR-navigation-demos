@@ -16,7 +16,7 @@ For those using A-Frame, the A-Frame team have added [Link Traversal](https://af
 
  * [Galaxy Links](https://samsunginter.net/WebVR-navigation-demos/links-galaxy.html)
 
- * [Snow Links](https://samsunginter.net/WebVR-navigation-demos/links-snowfall.html)
+ * [Snow Links](https://samsunginter.net/WebVR-navigation-demos/links-snow.html)
 
  * [Island Links](https://samsunginter.net/WebVR-navigation-demos/links-island.html)
 
